@@ -1,3 +1,3 @@
 #!/bin/bash
-rm -f /bin/hello-world
-go build -o bin/hello-world
+rm -f /bin/hello
+go build -o bin/
