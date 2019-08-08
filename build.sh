@@ -1,3 +1,3 @@
 #!/bin/bash
 
-go build -o index
+go build -o hello
